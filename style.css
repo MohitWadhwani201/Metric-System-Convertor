@@ -1,0 +1,36 @@
+ body{
+    /* font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: aqua; */
+ } 
+ h1{
+        justify-content: space-around;
+ }
+.main{
+    width: 60vh;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    border:2px solid black;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.inputarea{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.outputarea{
+ 
+        display:flex ;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    
+}
